@@ -124,7 +124,7 @@ main{
     background-position: top center;
 }
 
-#section2{
+#releases{
     background-image: url("Fond/Rain-forest.gif");
     background-size: cover;
     background-repeat: no-repeat;
@@ -132,7 +132,7 @@ main{
     background-position: top center;
 }
 
-#section4{
+#articles{
     background-image: url("Fond/Montagne.jpg");
     background-size: cover;
     background-repeat: no-repeat;
